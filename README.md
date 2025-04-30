@@ -1,7 +1,5 @@
 # AndresF-Cybersecurity-Portfolio
 > Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
-
-> Please make sure you include the original MIT license.
  
 ## Professional Statements
 I am Andres Facusse. I have worked . I am an Industrial Engineer and worked as a Production line manager in Tegucigalpa, Honduras. I provide IT technical support Cisco Net infrastructure, installed hotspot databases and redundancy networks to make sure operations maintained stable database extraction (SQL) and interpretation (Jypiter Notebook), application and cyber security support, detected network intrusions and unauthorized use of company technology (Splunk). Although my job wasn't mainly IT related, IoT and other factors led me to be increasingly aware of security flaws and vulnerabilities around the business, I took it upon myself to improve the network architecture, setup firewalls, educate my fellow employees and provide system and application maintenance, and authorization access whenever needed. In addition, my time as a team leader has further allowed me to enhance my interpersonal skills.  
